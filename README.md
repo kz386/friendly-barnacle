@@ -1,1 +1,1 @@
-* included zh_HK translation (Abel Cheung <abelcheung@gmail.com>).# friendly-barnacle
+* included zh_HK translation (Abel Cheung <kami.baghaei@gmail.com>).# friendly-barnacle
